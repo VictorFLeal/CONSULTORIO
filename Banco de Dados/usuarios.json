@@ -1,0 +1,5 @@
+[
+    {"id": 1, "usuario": "admin",  "senha": "123", "nivel": "admin"},
+    {"id": 2, "usuario": "recep",  "senha": "123", "nivel": "recepcionista"},
+    {"id": 3, "usuario": "drjoao", "senha": "123", "nivel": "medico"}
+]
